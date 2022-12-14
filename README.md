@@ -8,3 +8,7 @@
 
 #Login
 ![login](https://user-images.githubusercontent.com/98362008/207704272-6a45c10b-0ea2-4129-9c1b-6f4d7d0be030.png)
+
+#Some functionalities like: Comments, likes, edit, follow, unfollow, search
+![functionalities](https://user-images.githubusercontent.com/98362008/207704982-361180a7-07fb-4344-89b3-8a628ea6e1e1.png)
+
